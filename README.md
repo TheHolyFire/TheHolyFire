@@ -1,6 +1,6 @@
 ### Nebelbank.net/FreedomMC Developer
 
-![HolyFire's GitHub stats](https://github-readme-stats.vercel.app/api?username=theholyfire&show_icons=true&count_private=true?theme=DARK)
+![HolyFire's GitHub stats](https://github-readme-stats.vercel.app/api?username=theholyfire&show_icons=true&count_private=true)
 <!--
 **TheHolyFire/TheHolyFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
