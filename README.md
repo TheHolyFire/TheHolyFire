@@ -1,4 +1,4 @@
-### Nebelbank.net/FreedomMC Developer
+### [Nebelbank.net](https://nebelbank.net) FreedomMC Developer
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theholyfire&show_icons=true&count_private=true&theme=highcontrast&hide=issues,stars)
 <!--
