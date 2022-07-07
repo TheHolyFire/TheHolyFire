@@ -1,8 +1,8 @@
-# LUA JAVA AND WEB Developer
+# Lua, Java and Web Developer
 
 ## programming for:
 [FreedomMC](https://discord.gg/UPxQPv89XD)
 
-[Street-V](https://discord.gg/street-v)
+[NLO](https://discord.gg/newlifeonline)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theholyfire&show_icons=true&count_private=true&theme=highcontrast&hide=issues,stars)
