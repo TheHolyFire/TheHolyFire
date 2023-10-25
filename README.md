@@ -1,15 +1,14 @@
-<h3 align="center">A "Developer" from Germany</h3>
+<h2 align="center">A "Developer" from Germany</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theholyfire&label=Views&color=e70862&style=flat" alt="theholyfire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theholyfire&label=Views&color=E25353&style=flat" alt="theholyfire" /> </p>
 
+<h3>My Projects:</h3>
 
-
-- 🔭 I’m currently working on [BlockGame](https://github.com/Nisiphop/Block-Game/releases/latest)
-
-- 🌱 I’m currently learning **Unity Game Development**
+- [BlockGame](https://github.com/Nisiphop/Block-Game/releases/latest) (Self Made Game)
+- [TranslationBot](https://discord.com/api/oauth2/authorize?client_id=1130988088961806388&permissions=274877910016&scope=bot) (Discord Translation Bot)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://discord.com/users/360069857707819018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/360069857707819018" height="30" width="40" /></a>
 </p>
 
